@@ -104,7 +104,6 @@ local.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -156,7 +155,5 @@ buildNumber.properties
 /plugins
 /web-app/plugins
 
-# "temporary" build files
-/target
 
 
